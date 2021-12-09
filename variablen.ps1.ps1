@@ -3,7 +3,8 @@ $num1
 
 
 $service=Get-Service W32Time
-$service
+
+wtrwtwtr
 
 
 $date1="March 5, 2019 11:45 PM"
